@@ -1,6 +1,7 @@
 The provided Excel file contains information relating to one weeks worth of orders in one market:
 
-Orders:
+**Orders:**
+
 Order ID: Unique identifier of the order.
 
 Shopper ID: Unique identifier of the shopper.
@@ -25,7 +26,7 @@ Detailed Punctuality Tier: Breakdown of the earliness/lateness of the delivery
 
 
 
-Shoppers:
+**Shoppers:**
 
 Shopper ID: Unique identifier of the shopper.
 
