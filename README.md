@@ -1,3 +1,5 @@
+This repo contains my deck submission for a Senior Operations Analyst role final round case study in both PDF and powerpoint formats.
+
 The provided Excel file contains information relating to one weeks worth of orders in one market:
 
 **Orders:**
