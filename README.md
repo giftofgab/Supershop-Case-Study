@@ -1,5 +1,7 @@
 This repo contains my deck submission for a Senior Operations Analyst role final round case study in both PDF and powerpoint formats.
 
+I analyzed metrics relating to the operations of a grocery delivery platform and **found that the speed at which shoppers accept an order from a customer has the greatest impact on the on-time delivery of an order**. This insight led me to recommend creating strategies to incentivize shoppers to accept an order more quickly, such as a higher pay rate or bonus pay when an order is accepted within x number of minutes. 
+
 The provided Excel file contains information relating to one weeks worth of orders in one market:
 
 **Orders:**
